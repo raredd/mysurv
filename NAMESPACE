@@ -1,0 +1,9 @@
+export("forest.lines","foresthr","haz","km","km2ch","km2mat",
+"logrank","mybitmap","mypdf","myps","mypsu","mywmf",
+"naf","nosci.format","nslin","plotcph","plotmres",
+"plotschres","quantile.km","ratio","rdsas","rpv","sfplot","tabp","wald")
+import(
+  survival, cmprsk
+)
+S3method(plot,km)
+S3method(plot,ch)

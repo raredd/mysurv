@@ -1,0 +1,11 @@
+Package: mysurv
+Version: 1.2-9
+Date: 2012-mar-17
+Title: Supplementary survival functions
+Author: Bob Gray <gray@jimmy.harvard.edu>
+Maintainer: Bob Gray <gray@jimmy.harvard.edu>
+Depends: R (>= 2.14), survival, cmprsk
+Description: Additional local functions for performing survival analysis
+License: GPL (>= 2)
+Encoding: UTF-8
+RoxygenNote: 7.1.1
